@@ -5,6 +5,4 @@ router.get('/', (req, res) => {
     res.send('hello world1')
   })
 
-
- 
-  module.export = router;
+ module.exports = router;
